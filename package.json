@@ -1,0 +1,25 @@
+{
+  "name": "tester",
+  "version": "1.0.0",
+  "description": "teter",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ajay200394/tester.git"
+  },
+  "keywords": [
+    "tester"
+  ],
+  "author": "ikhwan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ajay200394/tester/issues"
+  },
+  "homepage": "https://github.com/ajay200394/tester#readme",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
